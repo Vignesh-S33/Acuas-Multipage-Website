@@ -120,7 +120,7 @@ acuas-multipage-website/
 
 **Author**
 
-* Name: Vignesh S
+Vignesh S
 
 ---
 
